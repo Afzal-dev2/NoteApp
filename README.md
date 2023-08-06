@@ -3,7 +3,7 @@ A simple cross-platform note-taking application built using KMM.
 
 This App is capable of performing CRUD operations and follows Clean Architecture.
 
-<img src="https://github.com/Afzal-dev2/NoteApp/assets/86124362/bd674fd3-9d3d-4f12-bb73-534942ac58e3.png" width=25% height=25%>
-<img src="https://github.com/Afzal-dev2/NoteApp/assets/86124362/a9d86ddd-236d-4e65-858c-342f6144f763.png" width=25% height=25%>
-<img src="https://github.com/Afzal-dev2/NoteApp/assets/86124362/87c6e8d2-2432-40e4-9da8-8c925ec59bf7.png" width=25% height=25%>
+<img src="https://github.com/Afzal-dev2/NoteApp/assets/86124362/cdcf0428-709f-4cd4-95d4-75ef3afb07b7.png" width=25% height=25%>
+<img src="https://github.com/Afzal-dev2/NoteApp/assets/86124362/a673af16-4a23-4752-9179-78621d80f75b.png" width=25% height=25%>
+<img src="https://github.com/Afzal-dev2/NoteApp/assets/86124362/26ec6efd-a2df-442f-ac45-46600a114ae3.png" width=25% height=25%>
 
