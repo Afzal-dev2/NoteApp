@@ -1,7 +1,7 @@
 # NoteApp
-A simple cross-platform note taking application built using KMM.
+A simple cross-platform note-taking application built using KMM.
 
-This App follows Clean Architecture CRUD operations.
+This App is capable of performing CRUD operations and follows Clean Architecture.
 
 <img src="https://github.com/Afzal-dev2/NoteApp/assets/86124362/bd674fd3-9d3d-4f12-bb73-534942ac58e3.png" width=25% height=25%>
 <img src="https://github.com/Afzal-dev2/NoteApp/assets/86124362/a9d86ddd-236d-4e65-858c-342f6144f763.png" width=25% height=25%>
